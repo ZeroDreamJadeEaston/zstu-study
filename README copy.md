@@ -65,12 +65,6 @@ All resources in this project are open access or shared resources. If any copyri
 
 Finally, we are happy to see any achievements and benefits brought by the use of these resources, but we are not responsible for any results that may be brought by the use of these resources. Users should remain diligent and cautious when using these resources to achieve the best learning effect.
 
-## 贡献者
-
-<a href="https://github.com/chen2438/zstu-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chen2438/zstu-study" />
-</a>
-
 ## Stars
 
 [![Stargazers over time](https://starchart.cc/chen2438/zstu-study.svg?variant=adaptive)](https://starchart.cc/chen2438/zstu-study)
